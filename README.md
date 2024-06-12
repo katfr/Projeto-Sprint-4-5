@@ -31,7 +31,7 @@ A resposta deve seguir este formato:
 
 4 - Realizar o Deploy do serviço na AWS.
 
-![Esquema mostrando a cloud aws com usuários acessando api gateway esta recebendo o modelo do bucket s3. Sagemaker ligado ao bucket para fornecer o modelo e ao RDS para ler e atualizar o dataset.](assets/sprint4-5.jpg)
+
 
 ***
 
