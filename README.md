@@ -1,6 +1,5 @@
 # Sprints 4 e 5 
 
-Avaliação das quarta e quinta sprints do programa de bolsas Compass UOL para formação em machine learning para AWS.
 
 ***
 
